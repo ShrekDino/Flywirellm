@@ -1,3 +1,6 @@
+> **This repo has merged into the [synaptech-platform monorepo](https://github.com/ShrekDino/synaptech-platform) → `packages/flywire-lsm/`**.
+> Issues and PRs should be directed there. This repo remains live for stars and reference.
+
 # FlyWire Connectome
 
 **Two-Region Hierarchical Liquid State Machine for Character-Level Text Processing**
